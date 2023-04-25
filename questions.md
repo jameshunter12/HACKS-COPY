@@ -20,9 +20,10 @@
 <h1>Customization 1</h1>
 
 <h2>1. What are some of the best practices for creating effective wire-frames in computer science? How do wire-frames help with the design process?</h2>
-<!--<p>ANSWER</p>-->
+One practice that you can use is identifying the purpose and user needs, so before creating a wireframe, it is essential to identify the purpose of the project and the needs of the users. This will help to create a wireframe that meets the needs of the project and the users.
+
 <h2>2. How does user testing play a role in the design of user interfaces and wire-frames in computer science? Can you provide an example of a project where user testing significantly impacted the final product design?</h2>
-<!--<p>ANSWER</p>-->
+User testing is a crucial part of designing wireframes. User testing involves getting feedback from actual users on how they interact with the interface and identifying areas that need improvement. An example of this is you working on a website and then you ask for feeback and then you modify the website based on the feeback.
 
 <hr>
 
